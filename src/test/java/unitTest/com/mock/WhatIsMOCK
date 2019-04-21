@@ -1,0 +1,40 @@
+
+
+
+
+
+
+                Mock Nedir ?
+- Gerçek bir nesneyi (sınıfı) birebir taklit eden nesne
+
+- İstediğiniz gibi hareket etmesini ve davranmasını sağlayabilirsiniz. (Çağrılan nesnenin istediğimiz değeri vermesi sağlanabilir.)
+
+- (Spy) Gerçek ve Mock beraber çalışabilir. (Bir nesne hem mock hemde gerçek nesne gibi davranabilir)
+
+                Neden Mock ?
+
+- Birim testi sadece bir birimi test eder.
+
+- Bağımlılıkların hiç bir yan etkisi olmaması gerekli
+
+- Bir senaryo için bağımlılıkları doğru bir şekilde yönlendirebilme
+
+- Gerçek nesneler ortaya beklenmedik durumlar çıkarabilir.
+
+- Gerçek nesneler yavaştır.
+
+- Gerçek nesneler tekrar edilebilir değildir.
+
+- Gerçek nesnelerin yapılandırılması zor ve karmaşıktır.
+
+
+                Mockito
+
+- En çok kullanılan mock kütüphanelerinden biridir.
+
+- Kolay ve çabuk öğrenilir.
+
+- Geniş kullanım yönetemleri vardır.
+
+- Annotation desteği
+
