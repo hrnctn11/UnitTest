@@ -8,4 +8,4 @@ AssertJ
 Lombok
 CatchException
 IntelliJ IDEA 14
-Maven 3
+Maven 3.0.5
